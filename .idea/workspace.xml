@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c0b2f3-944b-4a6e-b7c8-0e8f00c0b87c" name="Changes" comment="Java Leaning |  day 1 basic of java">
-      <change afterPath="$PROJECT_DIR$/src/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+    <list default="true" id="e7c0b2f3-944b-4a6e-b7c8-0e8f00c0b87c" name="Changes" comment="Java Leaning |  day 2 basic of java">
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +53,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
     "Application.DataType.executor": "Run",
     "Application.Input.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.Operators.executor": "Run",
+    "Application.Serach.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/jinen/IdeaProjects/java-journey-to-maang/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Input">
-    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataType" />
+  <component name="RunManager" selected="Application.Serach">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="java-journey-to-maang" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators" />
+    <configuration name="Serach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serach" />
       <module name="java-journey-to-maang" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,12 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeCasting" />
+      <module name="java-journey-to-maang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Serach" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.TypeCasting" />
         <item itemvalue="Application.Input" />
         <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.DataType" />
       </list>
     </recent_temporary>
   </component>
@@ -122,11 +130,28 @@
       <option name="project" value="LOCAL" />
       <updated>1750443168931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java Leaning |  day 2 basic of java">
+      <option name="closed" value="true" />
+      <created>1751396045622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751396045622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java Leaning |  day 2 basic of java">
+      <option name="closed" value="true" />
+      <created>1751396774420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751396774420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Leaning |  day 1 basic of java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Leaning |  day 1 basic of java" />
+    <MESSAGE value="Java Leaning |  day 2 basic of java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Leaning |  day 2 basic of java" />
   </component>
 </project>
